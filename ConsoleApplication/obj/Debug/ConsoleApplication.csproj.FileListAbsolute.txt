@@ -1,0 +1,12 @@
+D:\Projects\.NET\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\Projects\.NET\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\Projects\.NET\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.AssemblyReference.cache
+D:\Projects\.NET\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+D:\Projects\.NET\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\Projects\.NET\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\Projects\.NET\ConsoleApplication\ConsoleApplication\bin\Debug\nunit.framework.dll
+D:\Projects\.NET\ConsoleApplication\ConsoleApplication\bin\Debug\nunit.framework.legacy.dll
+D:\Projects\.NET\ConsoleApplication\ConsoleApplication\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\.NET\ConsoleApplication\ConsoleApplication\bin\Debug\nunit.framework.xml
+D:\Projects\.NET\ConsoleApplication\ConsoleApplication\bin\Debug\nunit.framework.legacy.xml
+D:\Projects\.NET\ConsoleApplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CopyComplete
